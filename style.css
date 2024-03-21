@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    height: 80px;
+    width: 300px;
+    border: 2px solid black;
+    color: rgb(207, 149, 149); 
+    margin-top: 50px;
+    text-align: center;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin: 30px;
+}
+
+button{
+    margin-top: 30px;
+}
+
